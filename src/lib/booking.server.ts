@@ -23,7 +23,7 @@ export type BookingResult =
 
 export const submitBookingTool = tool({
   description:
-    "Submit a completed hardware repair booking for an Apex IT Consulting customer. " +
+    "Submit a completed hardware repair booking for a NOMBEKO-S-LEGACY customer. " +
     "Call this ONLY after you have collected all four pieces of information " +
     "(full name, email, phone, hardware component, issue description) AND the customer " +
     "has confirmed the details are correct.",

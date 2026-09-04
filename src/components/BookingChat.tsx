@@ -220,7 +220,7 @@ export function BookingChat() {
               <Wrench className="h-6 w-6 text-primary" />
             </div>
             <p className="text-base font-medium text-foreground">
-              Hi, I'm the Apex IT repair assistant.
+              Hi, I'm the NOMBEKO-S-LEGACY repair assistant.
             </p>
             <p className="text-sm leading-relaxed text-muted-foreground">
               Tell me what's gone wrong with your hardware and I'll collect a
