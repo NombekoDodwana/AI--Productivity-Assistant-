@@ -110,7 +110,7 @@ function Index() {
                     {c.initials}
                   </span>
                   <div className="min-w-0 flex-1">
-                    <p className="text-sm font-semibold text-foreground">
+                    <p className="text-sm font-semibold text-white">
                       {c.name}
                       <span className="ml-2 font-normal text-muted-foreground">
                         {c.title}
