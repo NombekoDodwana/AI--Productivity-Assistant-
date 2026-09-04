@@ -35,22 +35,22 @@ export const Route = createFileRoute("/")({
 
 const CONSULTANTS = [
   {
-    initials: "JD",
-    name: "John Doe",
+    initials: "ND",
+    name: "DODWANA",
     title: "Hardware Specialist",
     scope: "Storage drives & memory",
     icon: HardDrive,
   },
   {
-    initials: "SJ",
-    name: "Sarah Jenkins",
+    initials: "ND",
+    name: "NOMBEKO",
     title: "Desktop Technician",
     scope: "Screens, displays & peripherals",
     icon: MonitorSmartphone,
   },
   {
-    initials: "AM",
-    name: "Alex Mercer",
+    initials: "ND",
+    name: "NOMBEKO",
     title: "Senior Hardware Engineer",
     scope: "Motherboards, power & diagnostics",
     icon: CircuitBoard,
@@ -76,7 +76,8 @@ function Index() {
             </span>
             <div>
               <p className="font-mono text-xs uppercase tracking-[0.3em] text-primary">
-                Apex IT Consulting
+                NOMBEKO-S-LEGACY
+                {"\u00a0"}IT CONSULTING
               </p>
               <p className="text-xs text-muted-foreground">
                 Hardware repair desk
