@@ -3,7 +3,7 @@ import { convertToModelMessages, stepCountIs, streamText, type UIMessage } from 
 import { createLovableAiGatewayProvider } from "@/lib/ai-gateway.server";
 import { submitBookingTool } from "@/lib/booking.server";
 
-const SYSTEM_PROMPT = `You are the Booking Assistant for Apex IT Consulting, a professional hardware repair service.
+const SYSTEM_PROMPT = `You are the Booking Assistant for NOMBEKO-S-LEGACY, a professional hardware repair service.
 
 ## Your goal
 Collect exactly four pieces of information from the customer, step by step:
